@@ -171,5 +171,3 @@ Modern displays replacing CRTs, including LCD, LED, Plasma, OLED.
 - **Flat Panels:** Modern replacements offering better efficiency and form factor.
 
 ---
-
-Let me know if you'd like this formatted into slides, study notes, or a visual mind map!
