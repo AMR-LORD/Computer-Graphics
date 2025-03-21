@@ -111,6 +111,7 @@ Explaining the contents of the CG
 ## **🔹 أنواع تقنيات شاشات CRT:**
 
 ### **📌 Refresh Cathode-Ray Tubes (CRT)**
+notice : **"Refresh Cathode-Ray" is not a separate type of CRT but rather an adjective describing how Raster-Scan and Random-Scan CRTs work.**
 
 - هي تقنية تعتمد على أنبوب أشعة الكاثود (CRT) الذي يقوم بإطلاق **شعاع إلكتروني** على سطح الشاشة المغطى بطبقة من **الفوسفور** لإنتاج الصورة.
 - تحتاج إلى **معدل تحديث (Refresh Rate)** مستمر للحفاظ على الصورة ومنع التلاشي (Decay).
@@ -439,6 +440,8 @@ Advantages:
 
 Disadvantages: 
 1. Random scan monitor display realistic shades scenes.
+
+
 
 
 
